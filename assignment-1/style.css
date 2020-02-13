@@ -27,15 +27,19 @@ h1{
 
 }
 .fluid-image{
+  margin-bottom: 2em;
   width: 100%;
 }
 
 
 p{
-  margin-bottom: 1em;
+  line-height: normal;
+  margin-bottom: 2em;
+  margin-bottom: 2em;
 }
 .main-menu li{
   display: inline;
+
 }
 nav{
   max-width: 1140px;
@@ -52,4 +56,15 @@ nav{
   height: 180px;
 
 
+}
+h2{
+  margin-top: 1.5em;
+}
+h3{
+  margin-top: 1em;
+}
+
+h4{
+margin-top: .50em;
+  margin-bottom: 1.5em;
 }
