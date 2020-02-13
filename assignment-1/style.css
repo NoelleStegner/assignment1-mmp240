@@ -1,0 +1,55 @@
+*{
+  margin: 0px;
+  padding:0px;
+  border: none;
+  background-color: AliceBlue;
+}
+body{
+  text-align: center;
+}
+
+
+.container{
+  max-width: 1140px;
+
+  }
+.page-header {
+  font-family: serif;
+
+}
+h1{
+  margin: 0.50em;
+}
+
+}
+.page-footer{
+
+
+}
+.fluid-image{
+  width: 100%;
+}
+
+
+p{
+  margin-bottom: 1em;
+}
+.main-menu li{
+  display: inline;
+}
+nav{
+  max-width: 1140px;
+  background-color: SkyBlue;
+
+  padding: 0.75em;
+  padding-left: 1em;
+  margin-top: 1em;
+  content: LightSkyBlue;
+}
+.fluid-image{
+  position: center;
+  width: 500px;
+  height: 180px;
+
+
+}
